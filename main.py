@@ -5,7 +5,7 @@ def main():
     There are nurses here who have (Color) (Part of the Body). 
     If someone wants to come into my room I told them that they have to (Verb) first. 
     I’ve decorated my room with (Number2) (Noun2). 
-    Today I talked to a doctor and they were wearing a (Noun3) on their (Part of the Body 2). 
+    Today I talked to a doctor and they were wearing a (Noun3) on their (Part of the Body2). 
     I heard that all doctors (Verb) (Noun4) every day for breakfast. 
     The most (Adjective3) thing about being in the hospital is the (Silly Word) (Noun) !""",
 
